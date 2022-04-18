@@ -1,0 +1,191 @@
+body {
+  font-family: 'Encode Sans', sans-serif;
+}
+
+/* topo */
+.logo {
+  height: 80px;
+  width: 1250px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  height: 60px;
+}
+
+.links {
+  width: 1250px;
+  font-weight: 700;
+  font-size: 19px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* separadores */
+
+.separador-horizontal {
+  background-color: #EBEDEF;
+  height: 1px;
+  margin: 20px 0;
+}
+
+.separador-vertical {
+  background-color: #EBEDEF;
+  width: 1px; 
+}
+
+/* notícias */
+
+.conteudo {
+  display: flex;
+  width: 1250px;
+  margin: 0 auto;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+/* notícia genérico */
+
+.noticia img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.noticia strong {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 10px; 
+  margin-bottom: 10px; 
+  display: block;
+}
+
+.noticia a {
+  font-weight: 400;
+  font-size: 14px;
+  margin: 15px 0;
+  display: block;
+  color: #2F3134;
+}
+
+.noticia small {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+a:hover {
+  filter: brightness(80%);
+}
+
+/* notícias principais (lado esquerdo) */
+
+.noticias-principais {
+  width: 624px;
+  height: 800px;
+  margin-left: 15px;
+  
+}
+
+.manchetes {
+  margin-bottom: 30px;
+}
+
+.manchetes p {
+  font-size: 52px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.manchetes a {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 10px 0;
+  display: block;
+  color: #2F3134;
+}
+
+.manchetes .manchete {
+  font-size: 52px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: inherit;
+}
+
+.noticias-relevantes {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.noticias-relevantes img {
+  width: 193px;
+  height: 110px;
+}
+
+.noticias-relevantes .noticia {
+  width: 193px;
+}
+
+/* notícias secundarias (lado direito) */
+
+.noticias-esportes {
+  width: 240px;
+  height: 800px;
+  margin-right: 10px;
+}
+
+.noticias-gshow { 
+  width: 240px;
+  height: 800px;
+  margin-right: 10px;
+}
+
+/* cores do site */
+
+.g1 {
+  color: #C3170C;
+}
+
+.oglobo {
+  color: #1E4B9B;
+}
+
+.valor {
+  color: #006766;
+}
+
+.ge {
+  color: #07AA47;
+}
+
+.cartola {
+  color: #E3662B;
+}
+
+.globoplay {
+  color: #FB0735;
+}
+
+.dropz {
+  color: #FF75BB;
+}
+
+.gshow {
+  color: #EC7D00;
+}
+
+.quem {
+  color: #323333;
+}
+
+.receitas {
+  color: #A81D83;
+}
+
+
+
+
+

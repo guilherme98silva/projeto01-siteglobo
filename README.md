@@ -4,7 +4,7 @@
 <br/>
 ## 📝 Descrição
 
-O objetivo é simular a página inicial do Globo.com usando as tecnologias requeridas. No arquivo HTML as notícias foram divididas em blocos para facilitar a modificação usando o CSS.
+O objetivo é simular a página inicial do globo.com usando as tecnologias requeridas. No arquivo HTML as notícias foram divididas em blocos para facilitar a modificação usando o CSS.
 <br/>
 ## 🖥️ Tecnologias
 
